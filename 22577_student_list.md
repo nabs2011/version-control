@@ -4,6 +4,7 @@
 
 * Nabeel, Messina’s tiramisu, ricotta cheesecake
 * Nabeel example - chocolate chip, cookies
+* Claire example - salted caramel, pineapple pie
 * Name 
 * NEW COMMIT
 * Jovenca, Pistachio, Cheesecake
